@@ -1,0 +1,18 @@
+.mainPage-heading{
+    font-family: Serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.mainpage-news-article-image{
+    max-width: 360px;
+}
+.mainPage-subheading{
+    text-align: center;
+}
+.mainpage-news-article-heading{
+    font-size: 16px;
+}
+.mainpage-news-article-hoursago{
+    color: darkgray;
+}
